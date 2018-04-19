@@ -6,7 +6,7 @@
 
 
 ## ATTENDEES
-* 
+* Kim Pham Github:@kimpham54 (University of Toronto Scarborough)
 * 
 * 
 * 
